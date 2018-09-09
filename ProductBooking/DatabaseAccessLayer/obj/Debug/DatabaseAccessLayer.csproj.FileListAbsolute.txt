@@ -1,0 +1,12 @@
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csprojAssemblyReference.cache
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csproj.CopyComplete
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.dll
+C:\Users\pgoel\source\repos\ProductBooking\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.pdb
